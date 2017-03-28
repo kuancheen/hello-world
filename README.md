@@ -1,5 +1,4 @@
 # hello-world
-
 Hey People!
 
 This is my first edit and about to make my first commit. This technically is my first markdown too. 
